@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Odev_Furkan</string>
+    <string name="aboutMe">Adım Furkan 21 yaşındayım bu sene dgs ile yazılım mühendisliğine geçmek istiyorum gnülük hayatım yazılım geliştirme film izleme kitap okuma gibi aktivitelerim var</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
